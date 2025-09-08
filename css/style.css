@@ -333,7 +333,7 @@ body {
 }
 
 .underline::after {
-  content: url("/assets/Business-under-line.svg");
+  content: url("assets/Business-under-line.svg");
   position: absolute;
   width: var(--Continar-Width);
   bottom: -10px;
@@ -621,7 +621,7 @@ body {
   width: var(--Continar-Width);
   height: var(--Continar-Height);
   padding: 0px 100px;
-  background-image: url(/assets/why-choose-us-bg.png);
+  background-image: url(assets/why-choose-us-bg.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -719,7 +719,7 @@ body {
   display: inline-block;
   width: 23px;
   height: 23px;
-  background-image: url(/assets/check-icon.svg);
+  background-image: url(assets/check-icon.svg);
   background-size: contain;
   background-repeat: no-repeat;
   margin-right: 8px;
@@ -1359,7 +1359,7 @@ form div {
   width: var(--Continar-Width);
   height: auto;
   padding: 20px 100px;
-  background-image: url(/assets/Footer-BG.png);
+  background-image: url(assets/Footer-BG.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
